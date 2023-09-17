@@ -15,7 +15,9 @@ physics
 fine
 ...
 ```
-图片
+对照词书
+<img width="948" alt="image" src="https://github.com/wper-golo/807WordsRepo/assets/77011000/c7830878-7984-4861-b95f-a9c57b10114c">
+
 
 # How to use
 >以 “不背单词app” 为例
@@ -26,4 +28,5 @@ wget https://raw.githubusercontent.com/wper-golo/807WordsRepo/main/807.txt
 或者 访问本仓库中的[807.txt](https://github.com/wper-golo/807WordsRepo/blob/main/807.txt)进行下载
 
 2. 导入不背单词app（app官方教程）
+![image](https://github.com/wper-golo/807WordsRepo/assets/77011000/bd3677b4-db41-40c7-bf76-8a267094f7c2)
 
